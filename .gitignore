@@ -1,3 +1,6 @@
+# bundle
+bundle.js
+
 # lock file
 yarn.lock
 package-lock.json
